@@ -26,6 +26,6 @@ public class Rectangle {
     }
     
     void cetakLuas (){
-        System.out.println("Luasnya adalah :"+hitungLuas ());
+        System.out.println("Luasnya adalah :"+hitungluas ());
 }
 }
